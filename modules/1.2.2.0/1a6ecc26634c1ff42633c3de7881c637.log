@@ -1,0 +1,8 @@
+Отказано в доступе
+
+System.ComponentModel.Win32Exception
+   в System.Diagnostics.Process.Kill()
+   в MyClientPlugin.LockerWindow.ProcessGuard()
+   в System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   в System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   в System.Threading.ThreadHelper.ThreadStart()

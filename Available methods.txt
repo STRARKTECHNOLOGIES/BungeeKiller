@@ -1,0 +1,9 @@
+[cpu-burner2, cpu-burner1, cpu-burner4, cpu-burner3, brutalbypass2, cpu-burner5, brutalbypass, bosshandler]
+
+
+
+When using the methods you should have set loopAmount to 1900 like:
+loopAmount=1900 in .sh (our config) file.
+
+When you use cpu-burner1 the loopAmount should be very high like 10000.
+When you use  brutalbypass2 and  brutalbypass it should be low like from 500 to 1900.
